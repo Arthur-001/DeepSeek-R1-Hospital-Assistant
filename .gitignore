@@ -1,0 +1,15 @@
+/Lib
+/Scripts
+/Include
+/bin
+/share
+/cache
+
+pyvenv.cfg
+
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
