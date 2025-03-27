@@ -1,0 +1,50 @@
+Question: What are the hospital visiting hours?
+Answer: The hospital visiting hours are from 9 AM to 7 PM every day.
+
+Question: What are the hospital visiting hours?
+Answer: The hospital visiting hours are from 9 AM to 7 PM every day.
+
+Question: How can I book an appointment with a doctor?
+Answer: You can book an appointment with a doctor by calling the hospital's reception or using our online booking system on the hospital website.
+
+Question: Do you offer emergency services?
+Answer: Yes, the hospital provides 24/7 emergency services. You can visit the emergency room or call the emergency number for assistance.
+
+Question: Where is the pharmacy located within the hospital?
+Answer: The pharmacy is located on the ground floor near the main entrance.
+
+Question: Can I get my medical test results online?
+Answer: Yes, you can access your medical test results online through our secure patient portal.
+
+Question: How do I get a referral to see a specialist?
+Answer: You can get a referral from your primary care doctor or from any of our medical professionals after a consultation.
+
+Question: What should I bring to my appointment?
+Answer: Please bring your ID, insurance card, medical history, and any relevant test results to your appointment.
+
+Question: What are the hospital's COVID-19 protocols?
+Answer: All patients and visitors are required to wear masks, maintain social distancing, and use hand sanitizers. Temperature checks will be conducted at the entrance.
+
+Question: How can I pay my medical bills?
+Answer: You can pay your medical bills in person at the billing department, through our online portal, or via phone using a credit card.
+
+Question: Is there parking available at the hospital?
+Answer: Yes, there is parking available in the hospital parking lot. We also offer valet services for convenience.
+
+Question: What is the process for discharging a patient from the hospital?
+Answer: Discharge processes usually start after the doctor has determined the patient is ready. Our staff will provide instructions for home care, medication, and follow-up appointments.
+
+Question: Do you have pediatric care available?
+Answer: Yes, we have pediatric specialists available to care for children of all ages.
+
+Question: How do I contact a specific doctor?
+Answer: You can contact a specific doctor through the hospital reception, or by reaching out to their office directly if they have private practice arrangements.
+
+Question: Are there any support services for patients recovering from surgery?
+Answer: Yes, we offer physical therapy, counseling, and home healthcare services for patients recovering from surgery.
+
+Question: What should I do if I need to cancel an appointment?
+Answer: If you need to cancel an appointment, please call the hospital at least 24 hours in advance or use the cancellation feature on our online booking system.
+
+Question: Do you offer maternity services?
+Answer: Yes, we offer maternity services, including prenatal care, delivery, and postnatal care.
