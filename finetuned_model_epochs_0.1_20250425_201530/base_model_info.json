@@ -1,0 +1,15 @@
+{
+  "base_model_name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "model_type": "qwen",
+  "is_peft_model": true,
+  "peft_type": "LORA",
+  "lora_config": {
+    "r": 4,
+    "alpha": 16,
+    "dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "v_proj"
+    ]
+  }
+}

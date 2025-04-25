@@ -1,0 +1,46 @@
+==================================================
+TRAINING CONFIGURATION
+==================================================
+
+Training Information:
+--------------------
+Started at: 20250425_201530
+Model: deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+Epochs: 0.1
+Quick test mode: False
+Initial memory usage: 357.65 MB
+
+Dataset Configuration:
+--------------------
+Training dataset: data-manipulation\augmented_dataset.json
+Evaluation dataset: data-manipulation\dataset.json
+Max sequence length: 256
+Train size limit: Full dataset
+Eval size limit: Full dataset
+
+Model Configuration:
+--------------------
+Int8 quantization: False
+Batch size: 2
+Gradient accumulation steps: 4
+Effective batch size: 8
+
+LoRA Configuration:
+--------------------
+LoRA rank (r): 4
+LoRA alpha: 16
+LoRA dropout: 0.05
+Target modules: q_proj, v_proj
+
+Optimization Configuration:
+--------------------
+Learning rate: 0.0001
+Warmup ratio: 0.03
+Early stopping patience: 2
+Early stopping threshold: 0.0001
+
+System Information:
+--------------------
+CPU count: 8
+Torch threads: 4
+CUDA available: False
