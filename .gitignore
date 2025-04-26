@@ -13,3 +13,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+/evaluationResults/
+/Fine-Tuned Models/
+/tests/
