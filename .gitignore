@@ -17,3 +17,5 @@ __pycache__/
 /evaluationResults/
 /Fine-Tuned Models/
 /tests/
+fletApp/storage/
+fletApp/
