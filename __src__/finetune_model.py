@@ -23,11 +23,11 @@ import random
 
 # ============= Global Hyperparameters =============
 # Model Configuration
-DEFAULT_MODEL = "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+DEFAULT_MODEL = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 MAX_SEQUENCE_LENGTH = 256
 
 # Training Configuration
-NUM_EPOCHS = 0.1  # Use fractional epochs for quick testing like 0.1
+NUM_EPOCHS = 5  # Use fractional epochs for quick testing like 0.1
 BATCH_SIZE = 2
 GRADIENT_ACCUMULATION_STEPS = 4
 LEARNING_RATE = 1e-4
@@ -47,11 +47,11 @@ EARLY_STOPPING_PATIENCE = 2
 EARLY_STOPPING_THRESHOLD = 0.0001
 
 # Dataset Configuration
-TRAIN_DATASET_PATH = os.path.join("..", "data-manipulation", "augmented_dataset.json")
-EVAL_DATASET_PATH = os.path.join("..", "data-manipulation", "dataset.json")
+TRAIN_DATASET_PATH = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), "data-manipulation", "augmented_dataset.json"))
+EVAL_DATASET_PATH = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), "data-manipulation", "dataset.json"))
 
 # Model Saving Configuration
-MODEL_SAVE_DIR = os.path.join("..", "Fine-Tuned Models")
+MODEL_SAVE_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), "Fine-Tuned Models"))
 
 # Quick Test Configuration
 QUICK_TEST_EPOCHS = 0.01

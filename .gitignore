@@ -19,3 +19,5 @@ __pycache__/
 /tests/
 fletApp/storage/
 fletApp/
+
+hospital_assistant_index/

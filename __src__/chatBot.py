@@ -10,10 +10,10 @@ from threading import Thread
 # ============= GLOBAL CONFIGURATION =============
 # Model paths
 MODEL_PATHS = {
-    "base_model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",  # Base model path
+    "base_model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",  # Base model path
     "fine_tuned_model": os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 
                                                "Fine-Tuned Models", 
-                                               "finetuned_model_epochs_0.1_20250425_201530"))  # Fine-tuned model path
+                                               "finetuned_model_epochs_5_20250428_164847"))  # Fine-tuned model path
 }
 
 # Model configuration
