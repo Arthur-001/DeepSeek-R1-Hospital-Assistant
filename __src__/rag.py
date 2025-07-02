@@ -98,7 +98,6 @@ def create_vector_store(data: List[str], vectorstore_path: str, embeddings_model
     """
     from langchain_community.embeddings import HuggingFaceEmbeddings
     from langchain_community.vectorstores import FAISS
-    import os
 
     try:
         embeddings = HuggingFaceEmbeddings(model_name=embeddings_model_name)

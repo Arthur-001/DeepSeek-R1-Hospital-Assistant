@@ -21,3 +21,6 @@ fletApp/storage/
 fletApp/
 
 hospital_assistant_index/
+.cursor/
+directory-structure.txt
+generate_tree.py
